@@ -7,3 +7,5 @@ To find out the existing problems via a UX case study for Google meet and redesi
 2) Process <br>
 3) Iterative Design <br>
 4) Final Prototype (Redesign)<br>
+
+![leon-MGFSGQr0c0Y-unsplash](https://user-images.githubusercontent.com/65614117/134823045-d7e62a54-f7e8-4ad3-902d-454069008e2e.jpg)
